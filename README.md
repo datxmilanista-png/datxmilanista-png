@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=64&duration=2000&pause=1000&center=true&vCenter=true&width=1080&height=70&lines=I%27m+r0ss0n3r1xD4t;Forensics+player)]()
 
-<!--
-**datxmilanista-png/datxmilanista-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="mailto:datxmilanista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>&nbsp; height="30"/></a>
+</div>
 
-Here are some ideas to get you started:
+## What I do
+- Reverse engineering
+- Forensics player
+- Enjoy CTF reverse engineering and memory forensics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
